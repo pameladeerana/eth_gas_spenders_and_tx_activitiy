@@ -11,7 +11,7 @@ Who are the top wallets / contracts spending the most gas? Are they whales, bots
 **Q2 - WHAT is the transaction type?**
 What is the transaction activity? 
 
-**Q3 - HOW BIG is the transaction**
+**Q3 - HOW BIG is the transaction?**
 What is the network usage pattern?
 
 ### 2. Workflow
