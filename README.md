@@ -1,6 +1,6 @@
 # Ethereum Gas Spenders and Transaction Activity
 
-Analysis of the Ethereum blockchain focused on who pays the most, what kind of activity is happening, and what the nerwork usage pattern
+Analysis of the Ethereum blockchain focused on who pays the most, what kind of activity is happening, and what the network usage pattern
 looks like. Data is intentionally tiny, limited to 20-row dataset for practice purposes only. This is my first project on Dune. My first tiny dashboard. :') It might seem very simple but I'm keeping it. 
 
 ### 1. Questions
@@ -40,7 +40,8 @@ What is the network usage pattern?
 ### 5. Tools
 
 - Dune Analytics
-- Meta AI (LLM)
+- WizardCamp
+- LLM (Meta AI)
 
 ### Author
 Pamela Dee E. Rana
