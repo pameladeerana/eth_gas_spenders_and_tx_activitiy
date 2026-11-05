@@ -23,7 +23,7 @@ What is the network usage pattern?
 ### 3. Files
 
 - `README.md` - Project overview
-- Dune queries:
+- Dune queries and results:
   1. Gas Cost Per Sender - https://dune.com/queries/9043486
   2. Transaction Count by Type - https://dune.com/queries/9043739 
   3. Transaction Size Qualification - https://dune.com/queries/9045549
