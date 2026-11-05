@@ -14,15 +14,15 @@ What is the network usage pattern?
 
 ### 2. Workflow
 
-1. Explored Ethereum tables on Dune Analytics
-2. Querried and snapshotted dataset, downloaded as CSV
-3. Re-uploaded CSV as custom data source in Dune
-4. Wrote 3 queries for Q1, Q2, Q3
-5. Built visualizations and final dashboard
+1. Explored Ethereum tables on Dune Analytics.
+2. Querried and snapshotted dataset, downloaded as CSV.
+3. Re-uploaded CSV as custom data source in Dune.
+4. Wrote 3 queries for Q1, Q2, Q3.
+5. Built visualizations and final dashboard.
 
 ### 3. Files
 
-- `README.md` - Project overview
+- `README.md` - Project overview.
 - Dune queries and results:
   1. Gas Cost Per Sender - https://dune.com/queries/9043486
   2. Transaction Count by Type - https://dune.com/queries/9043739 
