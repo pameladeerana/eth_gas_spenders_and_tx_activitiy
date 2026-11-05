@@ -42,4 +42,4 @@ What is the network usage pattern?
 - LLM (Meta AI)
 
 ### Author
-Pamela Dee E. Rana
+Pamela Dee Elegio Rana
