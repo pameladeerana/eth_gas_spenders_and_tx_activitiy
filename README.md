@@ -3,13 +3,20 @@
 Analysis of the Ethereum blockchain focused on who pays the most, what kind of activity is happening, and what the network usage pattern
 looks like. Data is intentionally tiny, limited to 20-row dataset for practice purposes only. This is my first project on Dune. My first tiny dashboard. :') It might seem very simple but I'm keeping it. 
 
-### 1. Questions
+### 1. Parts/Statements
 
-1. WHO are the biggest gas spenders?**
-Who are the top wallets / contracts spending the most gas? Are they whales, bots, or major protocols?
-2. WHAT is the transaction type?**
+**1. Gas Cost Per Sender**
+<br>
+Who are the top wallets / contracts spending the most gas?
+<br>
+<br>
+**2. Transaction Count by Type**
+<br>
 What is the transaction activity? 
-3. HOW BIG is the transaction?**
+<br>
+<br>
+**3. Transaction Size Qualification**
+<br>
 What is the network usage pattern?
 
 ### 2. Workflow
