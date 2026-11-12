@@ -24,9 +24,10 @@ What is the network usage pattern?
 
 - `README.md` - Project overview.
 - Dune queries and results:
-  1. Gas Cost Per Sender - https://dune.com/queries/9043486
-  2. Transaction Count by Type - https://dune.com/queries/9043739 
-  3. Transaction Size Qualification - https://dune.com/queries/9045549
+  - Data Source: https://dune.com/data/dune.pameladeerana.dataset_eth_transactions
+  - Gas Cost Per Sender - https://dune.com/queries/9043486
+  - Transaction Count by Type - https://dune.com/queries/9043739 
+  - Transaction Size Qualification - https://dune.com/queries/9045549
 - Dune Dashboard: https://dune.com/pameladeerana/ethereum-gas-spenders-and-transaction-activity
   
 ### 2. Snapshot & Data Coverage
